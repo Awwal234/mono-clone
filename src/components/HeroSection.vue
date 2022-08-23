@@ -31,7 +31,7 @@
             </div>
             <!--lane or side 2-->
             <div class="hidden lg:block">
-                <img src="monogif.webp" class="" alt="">
+                <img src="/monogif.webp" class="" alt="">
                 <div class="newy mx-auto text-[13px] cursor-pointer w-fit mt-[8px] bg-gray-100 rounded-full p-[10px] text-gray-600">
                     Replay <i class="las la-play text-black"></i>
                 </div>
@@ -43,10 +43,10 @@
             <div>
                 <div class="text-gray-800">Trusted by</div>
                 <div class="md:flex-wrap space-y-[13px] md:mt-[40px] md:flex md:space-x-[0px] xl:space-x-[100px] md:space-y-[0px]">
-                    <img src="carbon-logo.svg" class="" alt=""/>
-                    <img src="auto-logo.svg" class="" alt=""/>
-                    <img src="flutter-logo.svg" class="" alt=""/>
-                    <img src="credit-logo.svg" class="" alt=""/>
+                    <img src="/carbon-logo.svg" class="" alt=""/>
+                    <img src="/auto-logo.svg" class="" alt=""/>
+                    <img src="/flutter-logo.svg" class="" alt=""/>
+                    <img src="/credit-logo.svg" class="" alt=""/>
                 </div>
             </div>
         </div>

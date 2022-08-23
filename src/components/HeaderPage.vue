@@ -8,7 +8,7 @@ export default {
   <main>
     <!--header-->
     <header class="md:mx-auto md:w-[80%] items-center py-[30px] px-[20px] md:px-[10px] flex justify-between">
-      <div><img src="mono-logo.svg" alt=""/></div>
+      <div><img src="/mono-logo.svg" alt=""/></div>
       <!---->
       <div class="hidden lg:flex">
         <ul class="flex space-x-[40px]">
@@ -17,19 +17,19 @@ export default {
             <ul class="w-[30%] absolute ml-[-100px] shadow-2xl shadow-gray-300 px-[30px] py-[40px] mt-[2px]" id="drop">
               <div class="space-y-[20px] flex flex-col">
                 <div class="flex space-x-[20px]">
-                  <div><img src="icony.svg" class="w-[70px]" alt=""></div>
+                  <div><img src="/icony.svg" class="w-[70px]" alt=""></div>
                   <div><span class="font-bold">Why Choose Mono</span>
                     <div>Here's why 250+ Businesses & Developers use Mono APIs</div>
                   </div>
                 </div>
                 <div class="flex space-x-[20px]">
-                  <div><img src="icont.svg" class="w-[70px]" alt=""></div>
+                  <div><img src="/icont.svg" class="w-[70px]" alt=""></div>
                   <div><span class="font-bold">Pricing</span>
                     <div>Affordable pricing for developers, SMEs, and enterprises</div>
                   </div>
                 </div>
                 <div class="flex space-x-[20px]">
-                  <div><img src="iconp.svg" class="w-[50px]" alt=""></div>
+                  <div><img src="/iconp.svg" class="w-[50px]" alt=""></div>
                   <div><span class="font-bold">See a Demo</span>
                     <div>Experience Mono APIs in action</div>
                   </div>
@@ -45,22 +45,22 @@ export default {
             <ul class="w-[20%] absolute ml-[-120px] shadow-2xl shadow-gray-300 px-[30px] py-[40px] mt-[2px]" id="drop">
               <div class="space-y-[20px] flex flex-col">
                 <div class="flex items-center space-x-[20px]">
-                  <div><img src="learna.svg" class="" alt=""></div>
+                  <div><img src="/learna.svg" class="" alt=""></div>
                   <div class="font-bold">About us</div>
                 </div>
                 <!---->
                 <div class="flex items-center space-x-[20px]">
-                  <div><img src="learnb.svg" class="" alt=""></div>
+                  <div><img src="/learnb.svg" class="" alt=""></div>
                   <div class="font-bold">Blog</div>
                 </div>
                 <!---->
                 <div class="flex items-center space-x-[20px]">
-                  <div><img src="learnc.svg" class="" alt=""></div>
+                  <div><img src="/learnc.svg" class="" alt=""></div>
                   <div class="font-bold">Tutorials</div>
                 </div>
                 <!---->
                 <div class="flex items-center space-x-[20px]">
-                  <div><img src="learnd.svg" class="" alt=""></div>
+                  <div><img src="/learnd.svg" class="" alt=""></div>
                   <div class="font-bold">Coverage</div>
                 </div>
               </div>
@@ -72,12 +72,12 @@ export default {
             <ul class="w-[20%] absolute ml-[-120px] shadow-2xl shadow-gray-300 px-[30px] py-[40px] mt-[2px]" id="drop">
               <div class="space-y-[20px] flex flex-col">
                 <div class="flex items-center space-x-[20px]">
-                  <div><img src="d-icon.svg" class="" alt=""></div>
+                  <div><img src="/d-icon.svg" class="" alt=""></div>
                   <div class="font-bold">Overview</div>
                 </div>
                 <!---->
                 <div class="flex items-center space-x-[20px]">
-                  <div><img src="docs-icon.svg" class="" alt=""></div>
+                  <div><img src="/docs-icon.svg" class="" alt=""></div>
                   <div class="font-bold">Documentation</div>
                 </div>
               </div>
