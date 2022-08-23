@@ -6,6 +6,7 @@ export default {
 
 <template>
   <main>
+    <!--header-->
     <header class="md:mx-auto md:w-[80%] items-center py-[30px] px-[20px] md:px-[10px] flex justify-between">
       <div><img src="img/monologo.svg" alt=""></div>
       <!---->
