@@ -2,7 +2,7 @@
     <main>
         <div class="mt-[60px] md:mt-[80px] mx-auto w-[100%] px-[20px] md:px-[10px] md:w-[80%] lg:flex lg:justify-between lg:items-center">
             <div class="w-[95%] md:w-[80%] lg:w-[60%]">
-                <router-link to="">
+                <router-link to="/">
                 <div class="kenya bg-gray-100 space-x-[10px] items-center w-fit rounded-full p-[10px]">
                     <span class="new text-[10px] text-white font-bold bg-blue-700 py-[4px] px-[8px] rounded-full">NEW</span>
                     <span class="new text-[13px] font-normal">Mono is live in Kenya</span>
