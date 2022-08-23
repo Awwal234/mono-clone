@@ -43,10 +43,10 @@
             <div>
                 <div class="text-gray-800">Trusted by</div>
                 <div class="md:flex-wrap space-y-[13px] md:mt-[40px] md:flex md:space-x-[0px] xl:space-x-[100px] md:space-y-[0px]">
-                    <img src="img/carbon-logo.svg" class="" alt=""/>
-                    <img src="img/auto-logo.svg" class="" alt=""/>
-                    <img src="img/flutter-logo.svg" class="" alt=""/>
-                    <img src="img/credit-logo.svg" class="" alt=""/>
+                    <img src="carbon-logo.svg" class="" alt=""/>
+                    <img src="auto-logo.svg" class="" alt=""/>
+                    <img src="flutter-logo.svg" class="" alt=""/>
+                    <img src="credit-logo.svg" class="" alt=""/>
                 </div>
             </div>
         </div>
